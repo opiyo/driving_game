@@ -1,5 +1,5 @@
 #DRIVING GO! GO!
-![画像1](https://github.com/opiyo/wiki/blob/master/img/driving_game.png “DRIVING GO!GO!”)
+![画像1](https://github.com/opiyo/wiki/wiki/img/driving_game.png “DRIVING GO!GO!”)
 
 障害物を避けながら走行距離を伸ばしていくランアクションゲームです。  
 
