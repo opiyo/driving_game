@@ -12,4 +12,4 @@ Unity：5.2.1f1
 
 #サイト
 
-1. [リンク1](http://hiyotama.hatenablog.com/entry/2015/05/05/080000 "DRIVING GO!GO!")
+1. [チュートリアル](http://hiyotama.hatenablog.com/entry/2015/05/05/080000 "DRIVING GO!GO!")
